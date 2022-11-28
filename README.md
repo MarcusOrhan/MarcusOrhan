@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarcusOrhan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning   
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java, Selenium, TestNG, 
+- 🌱 I’m currently learning JS   
+- 💞️ I’m looking to collaborate on Automation & ManualTesting
+- 📫 to reach me ... marcusorhan@gmail.com
 
 <!---
 MarcusOrhan/MarcusOrhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
